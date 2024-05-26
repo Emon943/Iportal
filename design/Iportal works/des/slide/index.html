@@ -1,0 +1,25 @@
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script type="text/javascript" src="http://malsup.github.com/chili-1.7.pack.js"></script>
+<script type="text/javascript" src="http://malsup.github.com/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="http://malsup.github.com/jquery.easing.1.3.js"></script>
+<script type="text/javascript">
+$.fn.cycle.defaults.speed   = 500;
+$.fn.cycle.defaults.timeout = 6000;
+
+
+</script>
+<div class="pics" id="slide" style="position: relative;">
+            <p><strong>DSEX Index</strong> <span>4624.10690</span></p>
+            <p><strong>DSES Index</strong><span>1038.56169 </span></p>
+            <p>text3</p>
+        </div>
+
+<script type="text/javascript">
+$(document).ready(function($){
+
+$('#slide').cycle({ 
+    fx:      'turnDown', 
+    delay:   -40000 
+});
+
+})</script>

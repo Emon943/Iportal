@@ -1,0 +1,1464 @@
+<!DOCTYPE html>
+<html lang="en" class="app">
+<head>
+<meta charset="utf-8" />
+<title>iPortal | CAPM Advisory</title>
+<meta name="description" content="CAPM Advisory, iPortal DSE, Financial Data, Ami broker data download" />
+<meta name="author" content="CAPM Advisory" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="stylesheet" href="css/app.v1.css" type="text/css" />
+<link rel="stylesheet" href="js/calendar/bootstrap_calendar.css" type="text/css" />
+<!--[if lt IE 9]> <script src="js/ie/html5shiv.js"></script> <script src="js/ie/respond.min.js"></script> <script src="js/ie/excanvas.js"></script> <![endif]-->
+</head>
+<body class="">
+<section class="vbox">
+  <header class="bg-white header header-md navbar navbar-fixed-top-xs box-shadow">
+    <div class="navbar-header aside-xl dk"> <a class="btn btn-link visible-xs" data-toggle="class:nav-off-screen" data-target="#nav"> <i class="fa fa-bars"></i> </a> <a href="index.html" class="navbar-brand"><img src="images/logo.jpg" class="m-r-sm"></a> </div>
+   
+    <form class="navbar-form navbar-right input-s-lg m-t m-l-n-xs hidden-xs" role="search">
+      <div class="form-group">
+        <div class="input-group"> <span class="input-group-btn">
+          <button type="submit" class="btn btn-sm bg-white b-white btn-icon"><i class="fa fa-search"></i></button>
+          </span>
+          <input type="text" class="form-control input-sm no-border" placeholder="Search apps, projects...">
+        </div>
+      </div>
+    </form>
+     <a href="#modal-form" class="btn btn-s-md btn-info btn-rounded pull-right" data-toggle="modal">Log In / Sign Up</a>
+   
+  </header>
+  <section>
+    <section class="hbox stretch">
+      <!-- .aside -->
+      <aside class="bg-light aside-md hidden-print" id="nav">
+        <section class="vbox">
+          <section class="w-f scrollable">
+            <div class="slim-scroll" data-height="auto" data-disable-fade-out="true" data-distance="0" data-size="10px" data-color="#333333">
+              
+              <!-- nav -->
+              <nav class="nav-primary hidden-xs bg-primary">
+                <div class="text-muted text-sm hidden-nav-xs padder m-t-sm m-b-sm">&nbsp;</div>
+                <ul class="nav nav-main" data-ride="collapse">
+                  <li class="active"> <a href="index.html"> <i class="i i-statistics icon"> </i> <span class="font-bold">Today's Market</span> </a> 
+                  <ul class="nav dk">
+                      <li > <a href="#" class="auto"> <i class="i i-dot"></i> <span>Stock Market</span> </a> </li>
+                      <li > <a href="#" class="auto"> <i class="i i-dot"></i> <span>Money Market</span> </a> </li>
+                      <li > <a href="#" class="auto"> <i class="i i-dot"></i> <span>Economic Indicators</span> </a> </li>
+                      <li > <a href="#" class="auto"> <i class="i i-dot"></i> <span>Currency</span> </a> </li>
+                    </ul>
+                  </li>
+                  <li > <a href="#" class="auto"><i class="i i-stack icon"> </i> <span class="font-bold">Company Fundamentals & Quantitative</span> </a>
+                    
+                  </li>
+                  <li> <a href="#" class="auto"> <i class="fa fa-file icon"> </i> <span class="font-bold">All Financial News & Reports
+</span> </a> </li>
+                      
+                  
+                  <li> <a href="#" class="auto"> <i class="i i-docs icon"> </i> <span class="font-bold">Company Financials</span> </a>
+                    
+                  </li>
+                  <li> <a href="#" class="auto"> <i class="fa  fa-exchange icon"> </i> <span class="font-bold">Dummy Trading & VAS</span> </a>
+                    
+                  </li>
+                  <li> <a href="#" class="auto"> <i class="fa fa-comments icon"> </i> <span class="font-bold">Blog & Resources</span> </a></li>
+
+                </ul>
+               
+                
+              </nav><br/>
+              <!-- / nav -->
+              <div class="panel b-light">
+              <h5 class="padder font-bold">Reports</h5>
+              <dl class="padder">
+      <dt>10-4-2014</dt>
+      <dd class="m-b-md"><a href="#">Weekly Stock Market Report </a></dd>
+      <dt>9-4-2014</dt>
+      <dd class="m-b-md"><a href="#">Daily Stock Market Report</a></dd>
+    </dl>
+              </div>
+            </div>
+          </section>
+          <!--<footer class="footer hidden-xs no-padder text-center-nav-xs"> <a href="modal.lockme.html" data-toggle="ajaxModal" class="btn btn-icon icon-muted btn-inactive pull-right m-l-xs m-r-xs hidden-nav-xs"> <i class="i i-logout"></i> </a> <a href="#nav" data-toggle="class:nav-xs" class="btn btn-icon icon-muted btn-inactive m-l-xs m-r-xs"> <i class="i i-circleleft text"></i> <i class="i i-circleright text-active"></i> </a> </footer>-->
+        </section>
+      </aside>
+      <!-- /.aside -->
+      <section id="content">
+        <section class="hbox stretch">
+          <section>
+            <section class="vbox">
+              <section class="scrollable padder">
+                <section class="row m-b-md">
+                  
+                    <div class="col-sm-8"><br/>
+                    <div class="row no-gutter"><div class="col-sm-12">
+                   <marquee id="mq2" width="100%" height="33" align="top" behavior="scroll" direction="left" onmouseout="this.start();" onmouseover="this.stop();" scrollamount="1" scrolldelay="10" truespeed ><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=1JANATAMF%20" class="abhead" target="_top">1JANATAMF  6.30 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=1STICB%20%20%20%20" class="abhead" target="_top">1STICB     912.00 <img src="tkup.gif" border="0"><br>2.10    0.23%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=1STPRIMFMF" class="abhead" target="_top">1STPRIMFMF 18.50 <img src="tkdown.gif" border="0"><br>-0.10    -0.54%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=5THICB%20%20%20%20" class="abhead" target="_top">5THICB     187.30 <img src="tkdown.gif" border="0"><br>-12.40    -6.21%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=6THICB%20%20%20%20" class="abhead" target="_top">6THICB     68.80 <img src="tkup.gif" border="0"><br>0.20    0.29%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=8THICB%20%20%20%20" class="abhead" target="_top">8THICB     73.50 <img src="tkup.gif" border="0"><br>1.10    1.52%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=AAMRATECH%20" class="abhead" target="_top">AAMRATECH  35.70 <img src="tkup.gif" border="0"><br>0.60    1.71%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ABB1STMF%20%20" class="abhead" target="_top">ABB1STMF   7.30 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ABBANK%20%20%20%20" class="abhead" target="_top">ABBANK     27.60 <img src="tkdown.gif" border="0"><br>-2.00    -6.76%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ACI%20%20%20%20%20%20%20" class="abhead" target="_top">ACI        189.30 <img src="tkup.gif" border="0"><br>4.20    2.27%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ACIFORMULA" class="abhead" target="_top">ACIFORMULA 83.00 <img src="tkup.gif" border="0"><br>0.10    0.12%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ACIZCBOND%20" class="abhead" target="_top">ACIZCBOND  895.00 <img src="tkdown.gif" border="0"><br>-5.00    -0.56%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ACTIVEFINE" class="abhead" target="_top">ACTIVEFINE 80.70 <img src="tkdown.gif" border="0"><br>-0.30    -0.37%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=AFCAGRO%20%20%20" class="abhead" target="_top">AFCAGRO    49.30 <img src="tkdown.gif" border="0"><br>-1.50    -2.95%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=AFTABAUTO%20" class="abhead" target="_top">AFTABAUTO  79.20 <img src="tkdown.gif" border="0"><br>-1.00    -1.25%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=AGNISYSL%20%20" class="abhead" target="_top">AGNISYSL   20.20 <img src="tkdown.gif" border="0"><br>-0.30    -1.46%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=AGRANINS%20%20" class="abhead" target="_top">AGRANINS   23.50 <img src="tkup.gif" border="0"><br>0.40    1.73%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=AIBL1STIMF" class="abhead" target="_top">AIBL1STIMF 7.80 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=AIMS1STMF%20" class="abhead" target="_top">AIMS1STMF  41.20 <img src="tkdown.gif" border="0"><br>-0.20    -0.48%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=AL-HAJTEX%20" class="abhead" target="_top">AL-HAJTEX  113.80 <img src="tkdown.gif" border="0"><br>-3.10    -2.65%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ALARABANK%20" class="abhead" target="_top">ALARABANK  15.10 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ALLTEX%20%20%20%20" class="abhead" target="_top">ALLTEX     7.20 <img src="tkdown.gif" border="0"><br>-0.10    -1.37%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=AMBEEPHA%20%20" class="abhead" target="_top">AMBEEPHA   283.50 <img src="tkdown.gif" border="0"><br>-7.60    -2.61%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=AMCL(PRAN)" class="abhead" target="_top">AMCL(PRAN) 233.20 <img src="tkdown.gif" border="0"><br>-5.10    -2.14%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ANLIMAYARN" class="abhead" target="_top">ANLIMAYARN 24.80 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ANWARGALV%20" class="abhead" target="_top">ANWARGALV  26.50 <img src="tkdown.gif" border="0"><br>-1.70    -6.03%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=APEXFOODS%20" class="abhead" target="_top">APEXFOODS  114.00 <img src="tkdown.gif" border="0"><br>-2.90    -2.48%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=APEXFOOT%20%20" class="abhead" target="_top">APEXFOOT   457.60 <img src="tkdown.gif" border="0"><br>-17.00    -3.58%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=APEXSPINN%20" class="abhead" target="_top">APEXSPINN  86.50 <img src="tkdown.gif" border="0"><br>-4.20    -4.63%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=APEXTANRY%20" class="abhead" target="_top">APEXTANRY  164.00 <img src="tkup.gif" border="0"><br>2.40    1.49%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=APOLOISPAT" class="abhead" target="_top">APOLOISPAT 25.70 <img src="tkdown.gif" border="0"><br>-0.40    -1.53%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ARAMIT%20%20%20%20" class="abhead" target="_top">ARAMIT     329.10 <img src="tkup.gif" border="0"><br>2.00    0.61%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ARAMITCEM%20" class="abhead" target="_top">ARAMITCEM  50.80 <img src="tkdown.gif" border="0"><br>-2.20    -4.15%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ARGONDENIM" class="abhead" target="_top">ARGONDENIM 53.60 <img src="tkdown.gif" border="0"><br>-2.60    -4.63%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ASIAINS%20%20%20" class="abhead" target="_top">ASIAINS    23.70 <img src="tkdown.gif" border="0"><br>-0.40    -1.66%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ASIAPACINS" class="abhead" target="_top">ASIAPACINS 25.00 <img src="tkdown.gif" border="0"><br>-1.90    -7.06%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ATLASBANG%20" class="abhead" target="_top">ATLASBANG  181.10 <img src="tkdown.gif" border="0"><br>-4.10    -2.21%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=BANGAS%20%20%20%20" class="abhead" target="_top">BANGAS     464.20 <img src="tkdown.gif" border="0"><br>-6.50    -1.38%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=BANKASIA%20%20" class="abhead" target="_top">BANKASIA   18.00 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="140" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=BATASHOE%20%20" class="abhead" target="_top">BATASHOE   1069.90 <img src="tkup.gif" border="0"><br>61.10    6.06%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="140" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=BATBC%20%20%20%20%20" class="abhead" target="_top">BATBC      2520.00 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=BAYLEASING" class="abhead" target="_top">BAYLEASING 30.40 <img src="tkdown.gif" border="0"><br>-0.90    -2.88%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=BDAUTOCA%20%20" class="abhead" target="_top">BDAUTOCA   26.90 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=BDBUILDING" class="abhead" target="_top">BDBUILDING 67.20 <img src="tkdown.gif" border="0"><br>-0.30    -0.44%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=BDCOM%20%20%20%20%20" class="abhead" target="_top">BDCOM      26.80 <img src="tkdown.gif" border="0"><br>-0.20    -0.74%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=BDFINANCE%20" class="abhead" target="_top">BDFINANCE  16.30 <img src="tkdown.gif" border="0"><br>-0.10    -0.61%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=BDLAMPS%20%20%20" class="abhead" target="_top">BDLAMPS    123.50 <img src="tkdown.gif" border="0"><br>-1.30    -1.04%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=BDTHAI%20%20%20%20" class="abhead" target="_top">BDTHAI     27.70 <img src="tkdown.gif" border="0"><br>-0.20    -0.72%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=BDWELDING%20" class="abhead" target="_top">BDWELDING  18.80 <img src="tkdown.gif" border="0"><br>-0.10    -0.53%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=BEACHHATCH" class="abhead" target="_top">BEACHHATCH 26.50 <img src="tkdown.gif" border="0"><br>-2.50    -8.62%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=BEACONPHAR" class="abhead" target="_top">BEACONPHAR 13.90 <img src="tkdown.gif" border="0"><br>-0.10    -0.71%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=BEDL%20%20%20%20%20%20" class="abhead" target="_top">BEDL       29.80 <img src="tkdown.gif" border="0"><br>-0.10    -0.33%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=BENGALWTL%20" class="abhead" target="_top">BENGALWTL  47.50 <img src="tkdown.gif" border="0"><br>-0.80    -1.66%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=BERGERPBL%20" class="abhead" target="_top">BERGERPBL  994.20 <img src="tkup.gif" border="0"><br>27.00    2.79%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=BEXIMCO%20%20%20" class="abhead" target="_top">BEXIMCO    28.60 <img src="tkdown.gif" border="0"><br>-0.30    -1.04%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=BGIC%20%20%20%20%20%20" class="abhead" target="_top">BGIC       27.60 <img src="tkdown.gif" border="0"><br>-0.30    -1.08%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=BIFC%20%20%20%20%20%20" class="abhead" target="_top">BIFC       13.40 <img src="tkdown.gif" border="0"><br>-0.30    -2.19%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=BRACBANK%20%20" class="abhead" target="_top">BRACBANK   24.80 <img src="tkdown.gif" border="0"><br>-1.00    -3.88%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=BSC%20%20%20%20%20%20%20" class="abhead" target="_top">BSC        609.25 <img src="tkdown.gif" border="0"><br>-15.25    -2.44%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=BSCCL%20%20%20%20%20" class="abhead" target="_top">BSCCL      207.00 <img src="tkdown.gif" border="0"><br>-1.20    -0.58%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=BSRMSTEEL%20" class="abhead" target="_top">BSRMSTEEL  65.00 <img src="tkdown.gif" border="0"><br>-0.10    -0.15%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=BXPHARMA%20%20" class="abhead" target="_top">BXPHARMA   50.00 <img src="tkup.gif" border="0"><br>0.20    0.40%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=BXSYNTH%20%20%20" class="abhead" target="_top">BXSYNTH    14.70 <img src="tkdown.gif" border="0"><br>-0.10    -0.68%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=CENTRALINS" class="abhead" target="_top">CENTRALINS 25.60 <img src="tkdown.gif" border="0"><br>-0.50    -1.92%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=CENTRALPHL" class="abhead" target="_top">CENTRALPHL 39.70 <img src="tkdown.gif" border="0"><br>-1.90    -4.57%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=CITYGENINS" class="abhead" target="_top">CITYGENINS 24.50 <img src="tkdown.gif" border="0"><br>-0.20    -0.81%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=CMCKAMAL%20%20" class="abhead" target="_top">CMCKAMAL   25.90 <img src="tkdown.gif" border="0"><br>-0.80    -3.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=CONFIDCEM%20" class="abhead" target="_top">CONFIDCEM  140.30 <img src="tkdown.gif" border="0"><br>-1.80    -1.27%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=CONTININS%20" class="abhead" target="_top">CONTININS  24.90 <img src="tkdown.gif" border="0"><br>-0.10    -0.40%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=CVOPRL%20%20%20%20" class="abhead" target="_top">CVOPRL     780.00 <img src="tkdown.gif" border="0"><br>-10.80    -1.37%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=DACCADYE%20%20" class="abhead" target="_top">DACCADYE   19.90 <img src="tkdown.gif" border="0"><br>-0.10    -0.50%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=DAFODILCOM" class="abhead" target="_top">DAFODILCOM 12.70 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=DBH%20%20%20%20%20%20%20" class="abhead" target="_top">DBH        62.10 <img src="tkup.gif" border="0"><br>0.20    0.32%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=DBH1STMF%20%20" class="abhead" target="_top">DBH1STMF   6.30 <img src="tkup.gif" border="0"><br>0.20    3.28%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=DELTALIFE%20" class="abhead" target="_top">DELTALIFE  215.80 <img src="tkdown.gif" border="0"><br>-4.00    -1.82%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=DELTASPINN" class="abhead" target="_top">DELTASPINN 34.60 <img src="tkdown.gif" border="0"><br>-0.20    -0.57%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=DESCO%20%20%20%20%20" class="abhead" target="_top">DESCO      65.10 <img src="tkdown.gif" border="0"><br>-0.40    -0.61%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=DESHBANDHU" class="abhead" target="_top">DESHBANDHU 17.40 <img src="tkdown.gif" border="0"><br>-0.40    -2.25%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=DHAKABANK%20" class="abhead" target="_top">DHAKABANK  18.80 <img src="tkdown.gif" border="0"><br>-0.60    -3.09%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=DHAKAINS%20%20" class="abhead" target="_top">DHAKAINS   33.60 <img src="tkdown.gif" border="0"><br>-0.70    -2.04%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=DSHGARME%20%20" class="abhead" target="_top">DSHGARME   93.20 <img src="tkdown.gif" border="0"><br>-7.30    -7.26%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=DUTCHBANGL" class="abhead" target="_top">DUTCHBANGL 93.50 <img src="tkdown.gif" border="0"><br>-1.90    -1.99%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=EASTLAND%20%20" class="abhead" target="_top">EASTLAND   39.40 <img src="tkup.gif" border="0"><br>0.10    0.25%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=EASTRNLUB%20" class="abhead" target="_top">EASTRNLUB  548.10 <img src="tkdown.gif" border="0"><br>-2.00    -0.36%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=EBL%20%20%20%20%20%20%20" class="abhead" target="_top">EBL        26.70 <img src="tkdown.gif" border="0"><br>-0.40    -1.48%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=EBL1STMF%20%20" class="abhead" target="_top">EBL1STMF   6.60 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ECABLES%20%20%20" class="abhead" target="_top">ECABLES    155.80 <img src="tkdown.gif" border="0"><br>-6.30    -3.89%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=EHL%20%20%20%20%20%20%20" class="abhead" target="_top">EHL        58.80 <img src="tkup.gif" border="0"><br>1.50    2.62%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=EMERALDOIL" class="abhead" target="_top">EMERALDOIL 45.60 <img src="tkdown.gif" border="0"><br>-2.50    -5.20%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ENVOYTEX%20%20" class="abhead" target="_top">ENVOYTEX   50.00 <img src="tkdown.gif" border="0"><br>-0.30    -0.60%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=EXIMBANK%20%20" class="abhead" target="_top">EXIMBANK   12.00 <img src="tkup.gif" border="0"><br>0.10    0.84%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=FAMILYTEX%20" class="abhead" target="_top">FAMILYTEX  55.00 <img src="tkdown.gif" border="0"><br>-2.10    -3.68%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=FAREASTFIN" class="abhead" target="_top">FAREASTFIN 11.90 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=FAREASTLIF" class="abhead" target="_top">FAREASTLIF 104.60 <img src="tkdown.gif" border="0"><br>-1.50    -1.41%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=FASFIN%20%20%20%20" class="abhead" target="_top">FASFIN     15.00 <img src="tkup.gif" border="0"><br>0.10    0.67%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=FEDERALINS" class="abhead" target="_top">FEDERALINS 29.50 <img src="tkdown.gif" border="0"><br>-0.80    -2.64%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=FINEFOODS%20" class="abhead" target="_top">FINEFOODS  18.10 <img src="tkdown.gif" border="0"><br>-0.40    -2.16%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=FIRSTSBANK" class="abhead" target="_top">FIRSTSBANK 12.30 <img src="tkdown.gif" border="0"><br>-0.20    -1.60%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=FLEASEINT%20" class="abhead" target="_top">FLEASEINT  20.80 <img src="tkdown.gif" border="0"><br>-0.80    -3.70%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=FUWANGCER%20" class="abhead" target="_top">FUWANGCER  16.40 <img src="tkdown.gif" border="0"><br>-0.20    -1.20%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=FUWANGFOOD" class="abhead" target="_top">FUWANGFOOD 19.00 <img src="tkdown.gif" border="0"><br>-0.10    -0.52%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=GBBPOWER%20%20" class="abhead" target="_top">GBBPOWER   23.00 <img src="tkdown.gif" border="0"><br>-0.30    -1.29%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=GENNEXT%20%20%20" class="abhead" target="_top">GENNEXT    19.90 <img src="tkdown.gif" border="0"><br>-0.30    -1.49%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=GHAIL%20%20%20%20%20" class="abhead" target="_top">GHAIL      37.00 <img src="tkdown.gif" border="0"><br>-1.10    -2.89%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=GHCL%20%20%20%20%20%20" class="abhead" target="_top">GHCL       46.20 <img src="tkdown.gif" border="0"><br>-1.00    -2.12%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="140" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=GLAXOSMITH" class="abhead" target="_top">GLAXOSMITH 1505.00 <img src="tkup.gif" border="0"><br>16.80    1.13%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=GLOBALINS%20" class="abhead" target="_top">GLOBALINS  24.80 <img src="tkup.gif" border="0"><br>0.30    1.22%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=GOLDENSON%20" class="abhead" target="_top">GOLDENSON  58.50 <img src="tkdown.gif" border="0"><br>-1.20    -2.01%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=GP%20%20%20%20%20%20%20%20" class="abhead" target="_top">GP         261.00 <img src="tkup.gif" border="0"><br>5.00    1.95%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=GPHISPAT%20%20" class="abhead" target="_top">GPHISPAT   47.20 <img src="tkup.gif" border="0"><br>0.20    0.43%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=GQBALLPEN%20" class="abhead" target="_top">GQBALLPEN  155.90 <img src="tkdown.gif" border="0"><br>-0.80    -0.51%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=GRAMEEN1%20%20" class="abhead" target="_top">GRAMEEN1   42.10 <img src="tkdown.gif" border="0"><br>-1.10    -2.55%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=GRAMEENS2%20" class="abhead" target="_top">GRAMEENS2  16.30 <img src="tkup.gif" border="0"><br>0.20    1.24%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=GREENDELMF" class="abhead" target="_top">GREENDELMF 5.70 <img src="tkup.gif" border="0"><br>0.10    1.79%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=GREENDELT%20" class="abhead" target="_top">GREENDELT  80.80 <img src="tkup.gif" border="0"><br>1.10    1.38%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=GSPFINANCE" class="abhead" target="_top">GSPFINANCE 21.20 <img src="tkdown.gif" border="0"><br>-0.40    -1.85%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=HAKKANIPUL" class="abhead" target="_top">HAKKANIPUL 30.50 <img src="tkdown.gif" border="0"><br>-0.80    -2.56%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=HEIDELBCEM" class="abhead" target="_top">HEIDELBCEM 582.90 <img src="tkdown.gif" border="0"><br>-6.10    -1.04%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=HRTEX%20%20%20%20%20" class="abhead" target="_top">HRTEX      33.20 <img src="tkup.gif" border="0"><br>0.50    1.53%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=IBBLPBOND%20" class="abhead" target="_top">IBBLPBOND  907.00 <img src="tkup.gif" border="0"><br>2.50    0.28%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=IBNSINA%20%20%20" class="abhead" target="_top">IBNSINA    120.00 <img src="tkdown.gif" border="0"><br>-3.90    -3.15%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="140" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ICB%20%20%20%20%20%20%20" class="abhead" target="_top">ICB        1792.00 <img src="tkup.gif" border="0"><br>1.25    0.07%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ICB1STNRB%20" class="abhead" target="_top">ICB1STNRB  28.80 <img src="tkup.gif" border="0"><br>1.10    3.97%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ICB2NDNRB%20" class="abhead" target="_top">ICB2NDNRB  10.30 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ICB3RDNRB%20" class="abhead" target="_top">ICB3RDNRB  5.20 <img src="tkdown.gif" border="0"><br>-0.10    -1.89%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ICBAMCL2ND" class="abhead" target="_top">ICBAMCL2ND 5.90 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ICBEPMF1S1" class="abhead" target="_top">ICBEPMF1S1 5.70 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ICBIBANK%20%20" class="abhead" target="_top">ICBIBANK   4.90 <img src="tkdown.gif" border="0"><br>-0.10    -2.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ICBISLAMIC" class="abhead" target="_top">ICBISLAMIC 22.50 <img src="tkup.gif" border="0"><br>0.20    0.90%</a><br>
+</td></tr></table></td></tr></table></marquee>  
+                 </br/>
+                  <marquee id="mq2" width="100%" height="33" align="top" behavior="scroll" direction="right" onmouseout="this.start();" onmouseover="this.stop();" scrollamount="1" scrolldelay="10" truespeed><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr>
+                    
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ICBSONALI1" class="abhead" target="_top">ICBSONALI1 8.60 <img src="tkdown.gif" border="0"><br>-0.10    -1.15%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=IDLC%20%20%20%20%20%20" class="abhead" target="_top">IDLC       52.10 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=IFIC%20%20%20%20%20%20" class="abhead" target="_top">IFIC       29.80 <img src="tkup.gif" border="0"><br>0.50    1.71%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=IFIC1STMF%20" class="abhead" target="_top">IFIC1STMF  6.80 <img src="tkup.gif" border="0"><br>0.10    1.49%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=IFILISLMF1" class="abhead" target="_top">IFILISLMF1 7.00 <img src="tkup.gif" border="0"><br>0.10    1.45%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ILFSL%20%20%20%20%20" class="abhead" target="_top">ILFSL      13.60 <img src="tkdown.gif" border="0"><br>-0.10    -0.73%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=IMAMBUTTON" class="abhead" target="_top">IMAMBUTTON 7.60 <img src="tkdown.gif" border="0"><br>-0.30    -3.80%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=INTECH%20%20%20%20" class="abhead" target="_top">INTECH     14.00 <img src="tkdown.gif" border="0"><br>-0.20    -1.41%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=IPDC%20%20%20%20%20%20" class="abhead" target="_top">IPDC       16.70 <img src="tkdown.gif" border="0"><br>-0.20    -1.18%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ISLAMIBANK" class="abhead" target="_top">ISLAMIBANK 27.90 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ISLAMICFIN" class="abhead" target="_top">ISLAMICFIN 15.00 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ISLAMIINS%20" class="abhead" target="_top">ISLAMIINS  27.10 <img src="tkdown.gif" border="0"><br>-0.50    -1.81%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ISNLTD%20%20%20%20" class="abhead" target="_top">ISNLTD     16.50 <img src="tkdown.gif" border="0"><br>-0.30    -1.79%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=JAMUNABANK" class="abhead" target="_top">JAMUNABANK 15.70 <img src="tkdown.gif" border="0"><br>-0.20    -1.26%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=JAMUNAOIL%20" class="abhead" target="_top">JAMUNAOIL  231.60 <img src="tkup.gif" border="0"><br>2.50    1.09%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=JANATAINS%20" class="abhead" target="_top">JANATAINS  23.60 <img src="tkdown.gif" border="0"><br>-0.60    -2.48%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=JMISMDL%20%20%20" class="abhead" target="_top">JMISMDL    167.60 <img src="tkdown.gif" border="0"><br>-9.10    -5.15%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=KARNAPHULI" class="abhead" target="_top">KARNAPHULI 23.00 <img src="tkdown.gif" border="0"><br>-0.70    -2.95%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=KEYACOSMET" class="abhead" target="_top">KEYACOSMET 23.00 <img src="tkdown.gif" border="0"><br>-0.20    -0.86%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=KOHINOOR%20%20" class="abhead" target="_top">KOHINOOR   341.00 <img src="tkdown.gif" border="0"><br>-14.50    -4.08%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=KPCL%20%20%20%20%20%20" class="abhead" target="_top">KPCL       53.30 <img src="tkdown.gif" border="0"><br>-0.40    -0.74%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=LAFSURCEML" class="abhead" target="_top">LAFSURCEML 58.40 <img src="tkup.gif" border="0"><br>2.00    3.55%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=LANKABAFIN" class="abhead" target="_top">LANKABAFIN 60.50 <img src="tkdown.gif" border="0"><br>-0.50    -0.82%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=LEGACYFOOT" class="abhead" target="_top">LEGACYFOOT 33.10 <img src="tkdown.gif" border="0"><br>-0.90    -2.65%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=LIBRAINFU%20" class="abhead" target="_top">LIBRAINFU  467.00 <img src="tkdown.gif" border="0"><br>-33.40    -6.67%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="140" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=LINDEBD%20%20%20" class="abhead" target="_top">LINDEBD    1050.00 <img src="tkup.gif" border="0"><br>51.90    5.20%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=LRGLOBMF1%20" class="abhead" target="_top">LRGLOBMF1  6.80 <img src="tkup.gif" border="0"><br>0.10    1.49%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=MAKSONSPIN" class="abhead" target="_top">MAKSONSPIN 14.20 <img src="tkdown.gif" border="0"><br>-0.20    -1.39%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=MALEKSPIN%20" class="abhead" target="_top">MALEKSPIN  25.00 <img src="tkdown.gif" border="0"><br>-0.20    -0.79%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="140" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=MARICO%20%20%20%20" class="abhead" target="_top">MARICO     1334.80 <img src="tkup.gif" border="0"><br>52.70    4.11%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=MATINSPINN" class="abhead" target="_top">MATINSPINN 39.90 <img src="tkdown.gif" border="0"><br>-1.90    -4.55%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=MBL1STMF%20%20" class="abhead" target="_top">MBL1STMF   8.00 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=MEGCONMILK" class="abhead" target="_top">MEGCONMILK 9.20 <img src="tkdown.gif" border="0"><br>-0.10    -1.08%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=MEGHNACEM%20" class="abhead" target="_top">MEGHNACEM  135.10 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=MEGHNALIFE" class="abhead" target="_top">MEGHNALIFE 132.00 <img src="tkdown.gif" border="0"><br>-3.20    -2.37%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=MEGHNAPET%20" class="abhead" target="_top">MEGHNAPET  6.50 <img src="tkdown.gif" border="0"><br>-0.20    -2.99%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=MERCANBANK" class="abhead" target="_top">MERCANBANK 15.60 <img src="tkdown.gif" border="0"><br>-0.30    -1.89%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=MERCINS%20%20%20" class="abhead" target="_top">MERCINS    22.50 <img src="tkdown.gif" border="0"><br>-0.40    -1.75%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=METROSPIN%20" class="abhead" target="_top">METROSPIN  16.20 <img src="tkdown.gif" border="0"><br>-0.40    -2.41%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=MHSML%20%20%20%20%20" class="abhead" target="_top">MHSML      29.80 <img src="tkdown.gif" border="0"><br>-1.00    -3.25%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=MICEMENT%20%20" class="abhead" target="_top">MICEMENT   84.30 <img src="tkup.gif" border="0"><br>0.50    0.60%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=MIRACLEIND" class="abhead" target="_top">MIRACLEIND 18.90 <img src="tkdown.gif" border="0"><br>-0.50    -2.58%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=MITHUNKNIT" class="abhead" target="_top">MITHUNKNIT 86.00 <img src="tkup.gif" border="0"><br>2.10    2.50%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=MJLBD%20%20%20%20%20" class="abhead" target="_top">MJLBD      69.00 <img src="tkdown.gif" border="0"><br>-1.80    -2.54%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=MONNOCERA%20" class="abhead" target="_top">MONNOCERA  32.90 <img src="tkdown.gif" border="0"><br>-0.70    -2.08%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=MONNOSTAF%20" class="abhead" target="_top">MONNOSTAF  345.00 <img src="tkdown.gif" border="0"><br>-24.90    -6.73%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=MPETROLEUM" class="abhead" target="_top">MPETROLEUM 290.60 <img src="tkup.gif" border="0"><br>7.50    2.65%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=MTB%20%20%20%20%20%20%20" class="abhead" target="_top">MTB        17.00 <img src="tkdown.gif" border="0"><br>-0.30    -1.73%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=NATLIFEINS" class="abhead" target="_top">NATLIFEINS 315.00 <img src="tkdown.gif" border="0"><br>-4.60    -1.44%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=NAVANACNG%20" class="abhead" target="_top">NAVANACNG  62.80 <img src="tkdown.gif" border="0"><br>-0.50    -0.79%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=NBL%20%20%20%20%20%20%20" class="abhead" target="_top">NBL        12.10 <img src="tkdown.gif" border="0"><br>-0.20    -1.63%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=NCCBANK%20%20%20" class="abhead" target="_top">NCCBANK    12.40 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=NCCBLMF1%20%20" class="abhead" target="_top">NCCBLMF1   7.50 <img src="tkup.gif" border="0"><br>0.10    1.35%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=NHFIL%20%20%20%20%20" class="abhead" target="_top">NHFIL      29.80 <img src="tkdown.gif" border="0"><br>-1.30    -4.18%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=NITOLINS%20%20" class="abhead" target="_top">NITOLINS   36.00 <img src="tkdown.gif" border="0"><br>-0.60    -1.64%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=NLI1STMF%20%20" class="abhead" target="_top">NLI1STMF   8.80 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=NORTHERN%20%20" class="abhead" target="_top">NORTHERN   92.00 <img src="tkup.gif" border="0"><br>2.00    2.22%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=NORTHRNINS" class="abhead" target="_top">NORTHRNINS 37.70 <img src="tkup.gif" border="0"><br>1.70    4.72%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=NPOLYMAR%20%20" class="abhead" target="_top">NPOLYMAR   60.90 <img src="tkdown.gif" border="0"><br>-1.90    -3.03%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=NTC%20%20%20%20%20%20%20" class="abhead" target="_top">NTC        812.00 <img src="tkdown.gif" border="0"><br>-31.00    -3.68%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=NTLTUBES%20%20" class="abhead" target="_top">NTLTUBES   159.00 <img src="tkdown.gif" border="0"><br>-4.50    -2.75%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=OLYMPIC%20%20%20" class="abhead" target="_top">OLYMPIC    229.00 <img src="tkup.gif" border="0"><br>2.10    0.93%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ONEBANKLTD" class="abhead" target="_top">ONEBANKLTD 13.90 <img src="tkdown.gif" border="0"><br>-0.50    -3.47%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ORIONINFU%20" class="abhead" target="_top">ORIONINFU  40.80 <img src="tkdown.gif" border="0"><br>-0.10    -0.24%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ORIONPHARM" class="abhead" target="_top">ORIONPHARM 55.10 <img src="tkdown.gif" border="0"><br>-0.10    -0.18%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=PADMALIFE%20" class="abhead" target="_top">PADMALIFE  71.40 <img src="tkup.gif" border="0"><br>0.30    0.42%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=PADMAOIL%20%20" class="abhead" target="_top">PADMAOIL   362.00 <img src="tkup.gif" border="0"><br>8.20    2.32%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=PARAMOUNT%20" class="abhead" target="_top">PARAMOUNT  20.50 <img src="tkdown.gif" border="0"><br>-0.90    -4.21%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=PEOPLESINS" class="abhead" target="_top">PEOPLESINS 27.90 <img src="tkdown.gif" border="0"><br>-0.90    -3.13%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=PF1STMF%20%20%20" class="abhead" target="_top">PF1STMF    5.50 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=PHENIXINS%20" class="abhead" target="_top">PHENIXINS  40.50 <img src="tkdown.gif" border="0"><br>-0.80    -1.94%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=PHOENIXFIN" class="abhead" target="_top">PHOENIXFIN 28.60 <img src="tkdown.gif" border="0"><br>-0.80    -2.72%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=PHPMF1%20%20%20%20" class="abhead" target="_top">PHPMF1     5.90 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=PIONEERINS" class="abhead" target="_top">PIONEERINS 53.70 <img src="tkdown.gif" border="0"><br>-0.50    -0.92%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=PLFSL%20%20%20%20%20" class="abhead" target="_top">PLFSL      21.20 <img src="tkdown.gif" border="0"><br>-0.30    -1.40%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=POPULAR1MF" class="abhead" target="_top">POPULAR1MF 6.50 <img src="tkup.gif" border="0"><br>0.10    1.56%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=POPULARLIF" class="abhead" target="_top">POPULARLIF 240.00 <img src="tkup.gif" border="0"><br>2.20    0.93%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=POWERGRID%20" class="abhead" target="_top">POWERGRID  50.30 <img src="tkdown.gif" border="0"><br>-0.20    -0.40%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=PRAGATIINS" class="abhead" target="_top">PRAGATIINS 58.00 <img src="tkup.gif" border="0"><br>1.80    3.20%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=PRAGATILIF" class="abhead" target="_top">PRAGATILIF 215.00 <img src="tkup.gif" border="0"><br>3.10    1.46%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=PREMIERBAN" class="abhead" target="_top">PREMIERBAN 10.10 <img src="tkdown.gif" border="0"><br>-0.10    -0.98%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=PREMIERCEM" class="abhead" target="_top">PREMIERCEM 91.40 <img src="tkup.gif" border="0"><br>1.00    1.11%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=PREMIERLEA" class="abhead" target="_top">PREMIERLEA 9.00 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=PRIME1ICBA" class="abhead" target="_top">PRIME1ICBA 5.50 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=PRIMEBANK%20" class="abhead" target="_top">PRIMEBANK  21.90 <img src="tkdown.gif" border="0"><br>-0.60    -2.67%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=PRIMEFIN%20%20" class="abhead" target="_top">PRIMEFIN   21.10 <img src="tkdown.gif" border="0"><br>-0.10    -0.47%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=PRIMEINSUR" class="abhead" target="_top">PRIMEINSUR 26.00 <img src="tkup.gif" border="0"><br>1.40    5.69%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=PRIMELIFE%20" class="abhead" target="_top">PRIMELIFE  109.00 <img src="tkdown.gif" border="0"><br>-0.10    -0.09%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=PRIMETEX%20%20" class="abhead" target="_top">PRIMETEX   23.30 <img src="tkup.gif" border="0"><br>0.10    0.43%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=PROGRESLIF" class="abhead" target="_top">PROGRESLIF 137.00 <img src="tkdown.gif" border="0"><br>-1.00    -0.72%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=PROVATIINS" class="abhead" target="_top">PROVATIINS 25.10 <img src="tkdown.gif" border="0"><br>-0.50    -1.95%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=PTL%20%20%20%20%20%20%20" class="abhead" target="_top">PTL        41.50 <img src="tkup.gif" border="0"><br>0.10    0.24%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=PUBALIBANK" class="abhead" target="_top">PUBALIBANK 30.70 <img src="tkup.gif" border="0"><br>0.40    1.32%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=PURABIGEN%20" class="abhead" target="_top">PURABIGEN  19.30 <img src="tkdown.gif" border="0"><br>-0.90    -4.46%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=QSMDRYCELL" class="abhead" target="_top">QSMDRYCELL 43.40 <img src="tkdown.gif" border="0"><br>-0.60    -1.36%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=RAHIMAFOOD" class="abhead" target="_top">RAHIMAFOOD 38.60 <img src="tkdown.gif" border="0"><br>-1.30    -3.26%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=RAHIMTEXT%20" class="abhead" target="_top">RAHIMTEXT  302.30 <img src="tkdown.gif" border="0"><br>-1.30    -0.43%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=RAKCERAMIC" class="abhead" target="_top">RAKCERAMIC 49.30 <img src="tkdown.gif" border="0"><br>-2.00    -3.90%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=RANFOUNDRY" class="abhead" target="_top">RANFOUNDRY 102.00 <img src="tkdown.gif" border="0"><br>-2.20    -2.11%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=RDFOOD%20%20%20%20" class="abhead" target="_top">RDFOOD     21.10 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="140" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=RECKITTBEN" class="abhead" target="_top">RECKITTBEN 1276.00 <img src="tkup.gif" border="0"><br>26.60    2.13%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=RELIANCE1%20" class="abhead" target="_top">RELIANCE1  8.90 <img src="tkdown.gif" border="0"><br>-0.10    -1.11%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=RELIANCINS" class="abhead" target="_top">RELIANCINS 63.00 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="140" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=RENATA%20%20%20%20" class="abhead" target="_top">RENATA     1122.70 <img src="tkup.gif" border="0"><br>43.50    4.03%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=REPUBLIC%20%20" class="abhead" target="_top">REPUBLIC   34.00 <img src="tkdown.gif" border="0"><br>-0.10    -0.29%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=RNSPIN%20%20%20%20" class="abhead" target="_top">RNSPIN     26.20 <img src="tkdown.gif" border="0"><br>-0.70    -2.60%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=RUPALIBANK" class="abhead" target="_top">RUPALIBANK 72.00 <img src="tkdown.gif" border="0"><br>-2.10    -2.83%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=RUPALIINS%20" class="abhead" target="_top">RUPALIINS  25.90 <img src="tkdown.gif" border="0"><br>-3.00    -10.38%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=RUPALILIFE" class="abhead" target="_top">RUPALILIFE 108.80 <img src="tkdown.gif" border="0"><br>-1.10    -1.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=SAFKOSPINN" class="abhead" target="_top">SAFKOSPINN 23.80 <img src="tkup.gif" border="0"><br>0.10    0.42%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=SAIHAMCOT%20" class="abhead" target="_top">SAIHAMCOT  22.10 <img src="tkdown.gif" border="0"><br>-0.10    -0.45%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=SAIHAMTEX%20" class="abhead" target="_top">SAIHAMTEX  29.50 <img src="tkup.gif" border="0"><br>0.50    1.72%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=SALAMCRST%20" class="abhead" target="_top">SALAMCRST  36.10 <img src="tkdown.gif" border="0"><br>-1.00    -2.70%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=SALVOCHEM%20" class="abhead" target="_top">SALVOCHEM  20.00 <img src="tkdown.gif" border="0"><br>-1.30    -6.10%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=SAMATALETH" class="abhead" target="_top">SAMATALETH 35.00 <img src="tkdown.gif" border="0"><br>-0.20    -0.57%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=SAMORITA%20%20" class="abhead" target="_top">SAMORITA   99.90 <img src="tkdown.gif" border="0"><br>-3.00    -2.92%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=SANDHANINS" class="abhead" target="_top">SANDHANINS 88.00 <img src="tkdown.gif" border="0"><br>-0.40    -0.45%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=SAPORTL%20%20%20" class="abhead" target="_top">SAPORTL    22.60 <img src="tkdown.gif" border="0"><br>-0.30    -1.31%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=SEBL1STMF%20" class="abhead" target="_top">SEBL1STMF  8.30 <img src="tkup.gif" border="0"><br>0.10    1.22%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=SHAHJABANK" class="abhead" target="_top">SHAHJABANK 14.90 <img src="tkdown.gif" border="0"><br>-0.10    -0.67%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=SHYAMPSUG%20" class="abhead" target="_top">SHYAMPSUG  7.80 <img src="tkdown.gif" border="0"><br>-0.30    -3.70%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=SIBL%20%20%20%20%20%20" class="abhead" target="_top">SIBL       14.20 <img src="tkup.gif" border="0"><br>0.20    1.43%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=SINGERBD%20%20" class="abhead" target="_top">SINGERBD   224.30 <img src="tkdown.gif" border="0"><br>-2.40    -1.06%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=SINOBANGLA" class="abhead" target="_top">SINOBANGLA 25.30 <img src="tkdown.gif" border="0"><br>-0.60    -2.32%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=SONALIANSH" class="abhead" target="_top">SONALIANSH 135.00 <img src="tkdown.gif" border="0"><br>-2.70    -1.96%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=SONARBAINS" class="abhead" target="_top">SONARBAINS 22.50 <img src="tkdown.gif" border="0"><br>-0.50    -2.17%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=SONARGAON%20" class="abhead" target="_top">SONARGAON  14.50 <img src="tkdown.gif" border="0"><br>-1.00    -6.45%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=SOUTHEASTB" class="abhead" target="_top">SOUTHEASTB 18.00 <img src="tkdown.gif" border="0"><br>-0.10    -0.55%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=SPCERAMICS" class="abhead" target="_top">SPCERAMICS 16.10 <img src="tkup.gif" border="0"><br>0.10    0.63%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=SPPCL%20%20%20%20%20" class="abhead" target="_top">SPPCL      60.60 <img src="tkup.gif" border="0"><br>1.70    2.89%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=SQUARETEXT" class="abhead" target="_top">SQUARETEXT 110.00 <img src="tkup.gif" border="0"><br>1.10    1.01%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=SQURPHARMA" class="abhead" target="_top">SQURPHARMA 279.50 <img src="tkdown.gif" border="0"><br>-0.80    -0.29%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=STANCERAM%20" class="abhead" target="_top">STANCERAM  38.20 <img src="tkdown.gif" border="0"><br>-2.40    -5.91%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=STANDARINS" class="abhead" target="_top">STANDARINS 36.50 <img src="tkupdown.gif" border="0"><br>0.00    0.00%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=STANDBANKL" class="abhead" target="_top">STANDBANKL 13.70 <img src="tkdown.gif" border="0"><br>-0.60    -4.20%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=SUMITPOWER" class="abhead" target="_top">SUMITPOWER 38.00 <img src="tkdown.gif" border="0"><br>-0.50    -1.30%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=SUNLIFEINS" class="abhead" target="_top">SUNLIFEINS 56.50 <img src="tkdown.gif" border="0"><br>-2.10    -3.58%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=TAKAFULINS" class="abhead" target="_top">TAKAFULINS 32.70 <img src="tkdown.gif" border="0"><br>-0.90    -2.68%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=TALLUSPIN%20" class="abhead" target="_top">TALLUSPIN  31.60 <img src="tkdown.gif" border="0"><br>-0.10    -0.32%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=TITASGAS%20%20" class="abhead" target="_top">TITASGAS   80.60 <img src="tkup.gif" border="0"><br>0.70    0.88%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=TRUSTB1MF%20" class="abhead" target="_top">TRUSTB1MF  7.50 <img src="tkdown.gif" border="0"><br>-0.10    -1.32%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=TRUSTBANK%20" class="abhead" target="_top">TRUSTBANK  15.20 <img src="tkdown.gif" border="0"><br>-0.60    -3.80%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=UCBL%20%20%20%20%20%20" class="abhead" target="_top">UCBL       23.80 <img src="tkdown.gif" border="0"><br>-0.20    -0.83%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ULC%20%20%20%20%20%20%20" class="abhead" target="_top">ULC        25.00 <img src="tkdown.gif" border="0"><br>-0.30    -1.19%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=UNIONCAP%20%20" class="abhead" target="_top">UNIONCAP   25.60 <img src="tkdown.gif" border="0"><br>-0.20    -0.78%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=UNIQUEHRL%20" class="abhead" target="_top">UNIQUEHRL  68.60 <img src="tkdown.gif" border="0"><br>-1.50    -2.14%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=UNITEDAIR%20" class="abhead" target="_top">UNITEDAIR  13.80 <img src="tkup.gif" border="0"><br>0.10    0.73%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=UNITEDINS%20" class="abhead" target="_top">UNITEDINS  34.10 <img src="tkdown.gif" border="0"><br>-3.00    -8.09%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="135" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=USMANIAGL%20" class="abhead" target="_top">USMANIAGL  180.00 <img src="tkdown.gif" border="0"><br>-12.60    -6.54%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=UTTARABANK" class="abhead" target="_top">UTTARABANK 27.30 <img src="tkdown.gif" border="0"><br>-0.20    -0.73%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=UTTARAFIN%20" class="abhead" target="_top">UTTARAFIN  69.50 <img src="tkdown.gif" border="0"><br>-0.80    -1.14%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="130" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ZAHINTEX%20%20" class="abhead" target="_top">ZAHINTEX   23.40 <img src="tkup.gif" border="0"><br>0.70    3.08%</a><br>
+</td></tr></table></td>
+<td valign="top" height="30"><table width="125" border="0" cellspacing="0" cellpadding="0"><tr><td height="30" width="100%">
+<a href="displayCompany.php?name=ZEALBANGLA" class="abhead" target="_top">ZEALBANGLA 9.20 <img src="tkdown.gif" border="0"><br>-0.30    -3.16%</a><br>
+</td></tr></table></td></tr></table></marquee>  
+        
+                    
+                    </div>
+                    
+                    <a class="btn btn-sm btn-success pull-left m-r-sm" href="#">Help</a>
+                    <a class="btn btn-sm btn-primary pull-left m-r-sm" href="#">Dummy Trading</a>
+                    <a class="btn btn-sm btn-info pull-left m-r-sm" href="#">Job Portal</a>
+                    <a class="btn btn-sm btn-default pull-left m-r-sm" href="#">Stock Depth</a>
+                    <a class="btn btn-sm btn-warning pull-left m-r-sm" href="#">RSS Feed</a>
+                    <img src="http://placehold.it/120x30" class="img-responsive pull-left">
+                    </div></div>
+                     <div class="col-sm-4 doc-buttons"><br/>
+                     
+                    <a href="#" class="pull-left m-b-sm"><img src="images/blog.png" /></a>
+                    <a href="#" class="pull-left"><img src="images/job.jpg" /></a>
+                    </div>
+                    
+                </section>
+
+                
+                <div class="row bg-light dk m-b">
+                  <div class="col-md-5 dker">
+                    <section>
+                      <div class="row text-center no-gutter">
+                        <div class="col-xs-3"> <span class="h4 font-bold m-t block">4,592.00</span> <small class="text-muted m-b block">DSEX</small> </div>
+                        <div class="row text-center no-gutter">
+                        <div class="col-xs-3"> <span class="h4 font-bold m-t block">-1.60</span> <small class="text-muted m-b block">Deviation</small> </div>
+                        <div class="row text-center no-gutter">
+                        <div class="col-xs-3"> <span class="h4 font-bold m-t block">-0.03%</span> <small class="text-muted m-b block">Change %</small> </div>
+                      <header class="font-bold padder-v">
+                        <div class="pull-right">
+                          <div class="btn-group">
+                            <button data-toggle="dropdown" class="btn btn-sm btn-rounded btn-default dropdown-toggle"> <span class="dropdown-label">Week</span> <span class="caret"></span> </button>
+                            <ul class="dropdown-menu dropdown-select">
+                              <li><a href="#">
+                                <input type="radio" name="b">
+                                Month</a></li>
+                              <li><a href="#">
+                                <input type="radio" name="b">
+                                Week</a></li>
+                              <li><a href="#">
+                                <input type="radio" name="b">
+                                Day</a></li>
+                            </ul>
+                          </div>
+                          <a href="#" class="btn btn-default btn-icon btn-rounded btn-sm">Go</a> </div>
+                     </header>
+                      <div class="panel-body">
+                        <div id="flot-sp1ine" style="height:255px"></div>
+                      </div>
+                        <div class="col-xs-3"> <span class="h4 font-bold m-t block">7,230</span> <small class="text-muted m-b block">Total Trade</small> </div>
+                        <div class="col-xs-3"> <span class="h4 font-bold m-t block">5,860</span> <small class="text-muted m-b block">Total Volume</small> </div>
+                        <div class="col-xs-3"> <span class="h4 font-bold m-t block">10,450</span> <small class="text-muted m-b block">Total Value</small> </div>
+                        
+                      </div>
+                    </section>
+                  </div>
+                  <div class="col-md-4">
+                   <h5 class="m-b-none text-center">Index Movers</h5>
+                   <table class="table table-striped b-t b-light table-bordered">
+                  <thead>
+                    <tr>
+                      <th>Company</th>
+                      <th >LTP</th>
+                      <th>YTP</th>
+                      <th>Index Change</th>
+                    
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      
+                      <td colspan="2">&nbsp;</td>
+                      
+                      <td colspan="2">Positive Impact</td>
+                      
+                    </tr>
+                    <tr>
+                      <td>BATASHOE</td>
+                      <td>1039.65</td>
+                      <td>978.25</td>
+                      <td>10.2%</td>
+                      
+                    </tr>
+                    <tr>
+                      <td>SINGERBD</td>
+                      <td>252.30</td>
+                      <td>232.50</td>
+                      <td>11.54%</td>
+                      
+                    </tr>
+                    <tr>
+                      
+                      
+                      <td colspan="2">&nbsp;</td>
+                      <td colspan="2">Negative Impact</td>
+                      
+                    </tr>
+                    
+                    <tr>
+                      <td>BCS</td>
+                      <td>675.54</td>
+                      <td>854.30</td>
+                      <td>-25.25%</td>
+                      
+                    </tr>
+                    <tr>
+                      <td>PTL</td>
+                      <td>45.54</td>
+                      <td>50.30</td>
+                      <td>-15.25%</td>
+                      
+                    </tr>
+                    
+                  </tbody>
+                </table>
+                <img src="http://placehold.it/350x150" class="img-responsive"><br/>
+                </div>
+                 <div class="col-md-3">
+                   <h5 class="m-b-none text-center">Watchlist</h5>
+                   <table class="table table-striped b-t b-light table-bordered">
+                  <thead>
+                    <tr>
+                      <th>Company</th>
+                      <th >Performance</th>
+                     
+                    
+                    </tr>
+                  </thead>
+                  <tbody>
+                    
+                    <tr>
+                      <td>BATASHOE</td>
+                      <td>1039.65</td>
+                      
+                      
+                    </tr>
+                    <tr>
+                      <td>SINGERBD</td>
+                      <td>252.30</td>
+                      
+                      
+                    </tr>
+                                       
+                    <tr>
+                      <td>BCS</td>
+                      <td>675.54</td>
+                      
+                      
+                    </tr>
+                    <tr>
+                      <td>PTL</td>
+                      <td>45.54</td>
+                      
+                      
+                    </tr>
+                    
+                  </tbody>
+                </table>
+                <img src="http://placehold.it/350x150" class="img-responsive"><br/>
+                </div>
+                
+                </div>
+                <div class="row">
+                <div class="col-md-12">
+                <h3>Recent Announcements</h3>
+                </div>
+                
+                  <div class="col-md-6">
+
+                    <section class="panel b-a">
+                      <div class="panel-heading b-b h5 font-bold"> Business and Economy </div>
+                      <div class="panel-body"> 
+                      <a href="#" class="block m-b text-black">ZAHINTEX Earnings</a>
+                      <a href="#" class="block m-b text-black">BEXIMCO Earnings</a>
+                      <a href="#" class="block m-b text-black">BATASHOE Earnings</a>
+                      <a href="#" class="block m-b text-black">BEXIMCO Earnings</a>
+                      <a href="#" class="block m-b text-black">BATASHOE Earnings</a>
+                         <a href="#" class="pull-right"><small>more &gt;&gt;</small></a></div>
+                    </section>
+                  </div>
+                  <div class="col-md-6">
+                    <section class="panel b-a">
+                      <div class="panel-heading b-b h5 font-bold">Global Market </div>
+                      <div class="panel-body"><ul class="list-group list-group-lg no-bg auto">
+                        <a href="#" class="list-group-item clearfix">The New Youk Times</span> <small class="text-muted clear text-ellipsis">Index falls down in New York Stock Exchange</small> </span> </a> 
+                        <a href="#" class="list-group-item clearfix">The Gurdian</span> <small class="text-muted clear text-ellipsis">Index falls down in New York Stock Exchange</small> </span></a>
+                      </ul>
+                       <a href="#" class="pull-right"><small>more &gt;&gt;</small></a>
+                      </div>
+                      
+                    </section>
+                  </div>
+                  </div>
+                  <div class="row">
+                  <div class="col-md-6">
+                    <section class="panel b-light">
+                      <div class="panel-heading b-b h5 font-bold">Capital Market</div>
+                      <div class="panel-body"><ul class="list-group list-group-lg no-bg auto">
+                        <a href="#" class="list-group-item clearfix">The Daily Star</span> <small class="text-muted clear text-ellipsis">Index falls down in New York Stock Exchange</small> </span> </a> 
+                        <a href="#" class="list-group-item clearfix">The New Age</span> <small class="text-muted clear text-ellipsis">Index falls down in New York Stock Exchange</small> </span></a>
+                      </ul>
+                      <a href="#" class="pull-right"><small>more &gt;&gt;</small></a>
+                      </div>
+                    </section>
+                  </div>
+                  
+                  <div class="col-md-6">
+                    <section class="panel b-light">
+                      <div class="panel-heading b-b h5 font-bold">Announcements</div>
+                      <div class="panel-body"><ul class="list-group list-group-lg no-bg auto">
+                        <a href="#" class="list-group-item clearfix">The Daily Star</span> <small class="text-muted clear text-ellipsis">Index falls down in New York Stock Exchange</small> </span> </a> 
+                        <a href="#" class="list-group-item clearfix">The New Age</span> <small class="text-muted clear text-ellipsis">Index falls down in New York Stock Exchange</small> </span></a>
+                      </ul><a href="#" class="pull-right"><small>more &gt;&gt;</small></a>
+                      </div>
+                    </section>
+                  </div>
+                  
+                </div>
+                  <div class="row">        
+                  <div class="col-md-4 dker">
+                    <section class="panel b-a">
+                      <div class="panel-heading b-b h5 font-bold"> Dividend History </div>
+                       
+                      <div class="table-responsive">
+                      <table class="table table-striped m-b-none table-responsive">
+                    <thead>
+                      <tr>
+                        <th>Name</th>
+                        <th>Dividend</th>
+                        <th>Declaration Date</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td>SALVOCHEM</td>
+                        <td>15% Cash</td>
+                        <td>2014-03-15</td>
+                      </tr>
+                      <tr>
+                        <td>BATASHOE</td>
+                        <td>20% Cash</td>
+                        <td>2014-04-15</td>
+                      </tr>
+                      <tr>
+                        <tr>
+                        <td>SALVOCHEM</td>
+                        <td>15% Cash</td>
+                        <td>2014-03-15</td>
+                      </tr>
+                      
+                    </tbody>
+                  </table>
+                
+                        </div>
+                    </section>
+                  </div>
+                  <div class="col-md-4">
+                    <section class="panel b-a">
+                      <div class="panel-heading b-b h5 font-bold">Lower Band </div>
+                      <div class="table-responsive">
+                      <table class="table table-striped m-b-none table-responsive">
+                    <thead>
+                      <tr>
+                        <th>Name</th>
+                        <th>Category</th>
+                        
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td>BATBC</div></td>
+                        <td>Sample</td>
+                        
+                      </tr>
+                      <tr>
+                        <td>TITAS</td>
+                        <td>Sample</td>
+                        
+                      </tr>
+                      <tr>
+                        <td>PTL</td>
+                        <td>Revenue</td>
+                        
+                      </tr>
+                      <tr>
+                        <td>CMCKAMAL</td>
+                        <td>Sample</td>
+                        
+                      </tr>
+                    </tbody>
+                  </table>
+                  </div>
+                    </section>
+                  </div>
+                  <div class="col-md-4">
+                    <section class="panel b-light">
+                      <div class="panel-heading b-b h5 font-bold">Technical Screener</div>
+                      <div class="table-responsive">
+                      <table class="table table-striped m-b-none table-responsive">
+                    <thead>
+                      <tr>
+                        <th>Indicator</th>
+                        <th>Lw/Hi than</th>
+                        <th>Value</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td>MFI</td>
+                        <td>App downloads</td>
+                        <td class="text-success"><i class="fa fa-level-up"></i> 40% </td>
+                      </tr>
+                      <tr>
+                        <td>MACD</td>
+                        <td>Social connection</td>
+                        <td class="text-success"><i class="fa fa-level-up"></i> 20% </td>
+                      </tr>
+                      <tr>
+                        <td>MACD</td>
+                        <td>Revenue</td>
+                        <td class="text-warning"><i class="fa fa-level-down"></i> 5% </td>
+                      </tr>
+                      <tr>
+                        <td>MCAD</td>
+                        <td>Sample</td>
+                        <td class="text-danger"><i class="fa fa-level-down"></i> 20% </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  </div>
+                    </section>
+                  </div>
+                  
+                  
+                </div></div>
+                <div class="row">
+                <div class="col-md-8">
+                <img src="images/chart.png" class="img-responsive"/>
+                      
+                </div>
+                <div class="col-md-4 panel b-a">
+                <h6>Most Actives</h6>
+                <section class="panel panel-default">
+                  <header class="panel-heading bg-light">
+                    <ul class="nav nav-tabs nav-justified">
+                      <li class="active"><a href="#gainer" data-toggle="tab">Gainers</a></li>
+                      <li><a href="#looser" data-toggle="tab">Losers</a></li>
+                      <li><a href="#turnover" data-toggle="tab">Turnover</a></li>
+                    </ul>
+                  </header>
+                  <div class="panel-body">
+                    <div class="tab-content">
+                      <div class="tab-pane active" id="gainer"><table class="table table-striped m-b-none">
+                    <thead>
+                      <tr>
+                        <th>Ticker</th>
+                        <th>LTP</th>
+                        <th>Change%</th>
+                        
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td><a href="#">BATASHOE</a></td>
+                        <td>1039.25</td>
+                        <td class="text-success"><i class="fa fa-level-up"></i>40%</td>
+                      </tr>
+                      <tr>
+                        <td><a href="#">SINGERBD</a></td>
+                        <td>216.56</td>
+                        <td class="text-success"><i class="fa fa-level-up"></i>20%</td>
+                      </tr>
+                      <tr>
+                        <td><a href="">EHL</a></td>
+                        <td>57.60</td>
+                        <td class="text-success"><i class="fa fa-level-up"></i>15%</td>
+                      </tr>
+                      <tr>
+                        <td><a href="">SALVOCHEM</a></td>
+                        <td>21.30</td>
+                        <td class="text-success"><i class="fa fa-level-up"></i>5%</td>
+                      </tr>
+                    </tbody>
+                  </table></div>
+                      <div class="tab-pane" id="looser"><table class="table table-striped m-b-none">
+                    <thead>
+                      <tr>
+                        <th>Ticker</th>
+                        <th>LTP</th>
+                        <th>Change%</th>
+                        
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td><a href="#">MERCANBANK</a></td>
+                        <td>1039.25</td>
+                        <td class="text-danger"><i class="fa fa-level-down"></i>40%</td>
+                      </tr>
+                      <tr>
+                        <td><a href="#">NORTHERN</a></td>
+                        <td>216.56</td>
+                        <td class="text-danger"><i class="fa fa-level-down"></i>20%</td>
+                      </tr>
+                      <tr>
+                        <td><a href="">RECKITTBEN</a></td>
+                        <td>57.60</td>
+                        <td class="text-danger"><i class="fa fa-level-down"></i>15%</td>
+                      </tr>
+                      <tr>
+                        <td><a href="">LAFSURCEML</a></td>
+                        <td>21.30</td>
+                        <td class="text-danger"><i class="fa fa-level-down"></i>5%</td>
+                      </tr>
+                    </tbody>
+                  </table></div>
+                    <div class="tab-pane" id="turnover"><table class="table table-striped m-b-none">
+                    <thead>
+                      <tr>
+                        <th>Ticker</th>
+                        <th>Turnover</th>
+                        <th>Change%</th>
+                        
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td><a href="#">BATASHOE</a></td>
+                        <td>1039.25</td>
+                        <td class="text-success"><i class="fa fa-level-up"></i>40%</td>
+                      </tr>
+                      <tr>
+                        <td><a href="#">SINGERBD</a></td>
+                        <td>216.56</td>
+                        <td class="text-success"><i class="fa fa-level-up"></i>20%</td>
+                      </tr>
+                      <tr>
+                        <td><a href="">EHL</a></td>
+                        <td>57.60</td>
+                        <td class="text-success"><i class="fa fa-level-up"></i>15%</td>
+                      </tr>
+                      <tr>
+                        <td><a href="">SALVOCHEM</a></td>
+                        <td>21.30</td>
+                        <td class="text-success"><i class="fa fa-level-up"></i>5%</td>
+                      </tr>
+                    </tbody>
+                  </table></div>
+                    </div>
+                  </div>
+                </section>
+                </div>
+                
+                </div><br/>
+                <div class="row ">
+       footrer
+                </div>
+              </section>
+            </section>
+          </section>
+          
+        </section>
+        <a href="#" class="hide nav-off-screen-block" data-toggle="class:nav-off-screen" data-target="#nav"></a> </section>
+    </section>
+  </section>
+</section>
+<!-- Bootstrap -->
+<!-- App -->
+<script src="js/app.v1.js"></script>
+<div class="modal fade" id="modal-form">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-body wrapper-lg">
+        <div class="row">
+          <div class="col-sm-6 b-r">
+            <h3 class="m-t-none m-b">Sign in</h3>
+            <p>Sign in</p>
+            <form role="form">
+              <div class="form-group">
+                <label>Email</label>
+                <input type="email" class="form-control" placeholder="Enter email">
+              </div>
+              <div class="form-group">
+                <label>Password</label>
+                <input type="password" class="form-control" placeholder="Password">
+              </div>
+              <div class="checkbox m-t-lg">
+                <button type="submit" class="btn btn-sm btn-success pull-right text-uc m-t-n-xs"><strong>Log in</strong></button>
+                <label>
+                  <input type="checkbox">
+                  Remember me </label>
+              </div>
+            </form>
+          </div>
+          <div class="col-sm-6">
+            <h4>Not a member?</h4>
+            <p>You can create an account <a href="#" class="text-info">here</a></p>
+             </div>
+        </div>
+      </div>
+    </div>
+    <!-- /.modal-content -->
+  </div>
+  <!-- /.modal-dialog -->
+  </div>
+<script src="js/charts/easypiechart/jquery.easy-pie-chart.js"></script>
+<script src="js/charts/sparkline/jquery.sparkline.min.js"></script>
+<script src="js/charts/flot/jquery.flot.min.js"></script>
+<script src="js/charts/flot/jquery.flot.tooltip.min.js"></script>
+<script src="js/charts/flot/jquery.flot.spline.js"></script>
+<script src="js/charts/flot/jquery.flot.pie.min.js"></script>
+<script src="js/charts/flot/jquery.flot.resize.js"></script>
+<script src="js/charts/flot/jquery.flot.grow.js"></script>
+<script src="js/charts/flot/demo.js"></script>
+<script src="js/calendar/bootstrap_calendar.js"></script>
+<script src="js/calendar/demo.js"></script>
+<script src="js/sortable/jquery.sortable.js"></script>
+<script src="js/app.plugin.js"></script>
+</body>
+</html>

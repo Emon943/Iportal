@@ -1,0 +1,663 @@
+[17-Jun-2014 13:10:57 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/pages/accounts.php on line 84
+[17-Jun-2014 13:19:39 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/pages/order.php on line 11
+[17-Jun-2014 08:17:14 UTC] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/smartus/public_html/capm/iportal/market/trading/pages/order.php on line 8
+[17-Jun-2014 08:17:57 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/smartus/public_html/capm/iportal/market/trading/pages/order.php on line 9
+[17-Jun-2014 14:18:22 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/pages/order.php on line 10
+[17-Jun-2014 14:19:30 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/pages/order.php on line 10
+[17-Jun-2014 14:19:47 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/pages/order.php on line 10
+[17-Jun-2014 14:22:35 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/pages/order.php on line 10
+[17-Jun-2014 14:22:57 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/pages/order.php on line 10
+[17-Jun-2014 14:23:28 Asia/Dhaka] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/smartus/public_html/capm/iportal/market/trading/pages/header.php:58) in /home/smartus/public_html/capm/iportal/market/trading/pages/order.php on line 2
+[17-Jun-2014 14:23:28 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/pages/order.php on line 11
+[17-Jun-2014 14:23:50 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/pages/order.php on line 11
+[17-Jun-2014 14:50:38 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/pages/order.php on line 13
+[17-Jun-2014 14:51:05 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/pages/order.php on line 13
+[17-Jun-2014 16:01:55 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/pages/order.php on line 13
+[17-Jun-2014 16:25:09 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/pages/order.php on line 13
+[17-Jun-2014 16:26:42 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/pages/order.php on line 13
+[17-Jun-2014 17:01:48 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/pages/order.php on line 13
+[17-Jun-2014 17:18:25 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/pages/order.php on line 13
+[18-Jun-2014 09:08:10 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/pages/order.php on line 13
+[18-Jun-2014 09:54:45 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/pages/order.php on line 13
+[18-Jun-2014 09:55:00 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/pages/order.php on line 13
+[18-Jun-2014 09:55:20 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/pages/order.php on line 13
+[18-Jun-2014 09:55:30 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/pages/order.php on line 13
+[18-Jun-2014 10:11:45 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/pages/order.php on line 13
+[01-Jul-2014 12:48:06 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/pages/accounts.php on line 84
+[20-Jul-2014 12:43:26 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/pages/accounts.php on line 84
+[20-Jul-2014 13:04:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 468
+[20-Jul-2014 13:04:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 506
+[20-Jul-2014 13:04:07 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 438
+[20-Jul-2014 13:04:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 468
+[20-Jul-2014 13:04:07 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 438
+[20-Jul-2014 13:04:07 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 438
+[20-Jul-2014 13:04:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 468
+[20-Jul-2014 13:04:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 506
+[20-Jul-2014 13:04:07 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[20-Jul-2014 13:04:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 468
+[20-Jul-2014 13:04:07 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[20-Jul-2014 13:04:07 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[20-Jul-2014 13:19:29 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 468
+[20-Jul-2014 13:19:29 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 506
+[20-Jul-2014 13:19:29 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 438
+[20-Jul-2014 13:19:29 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 468
+[20-Jul-2014 13:19:29 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 438
+[20-Jul-2014 13:19:29 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 438
+[20-Jul-2014 13:19:29 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 468
+[20-Jul-2014 13:19:29 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 506
+[20-Jul-2014 13:19:29 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[20-Jul-2014 13:19:29 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 468
+[20-Jul-2014 13:19:29 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[20-Jul-2014 13:19:29 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[20-Jul-2014 13:22:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[20-Jul-2014 13:22:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 505
+[20-Jul-2014 13:22:56 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[20-Jul-2014 13:22:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[20-Jul-2014 13:22:56 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[20-Jul-2014 13:22:56 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[20-Jul-2014 13:22:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[20-Jul-2014 13:22:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 505
+[20-Jul-2014 13:22:56 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[20-Jul-2014 13:22:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[20-Jul-2014 13:22:56 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[20-Jul-2014 13:22:56 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[20-Jul-2014 13:22:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[20-Jul-2014 13:22:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 505
+[20-Jul-2014 13:22:56 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[20-Jul-2014 13:22:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[20-Jul-2014 13:22:56 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[20-Jul-2014 13:22:56 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[20-Jul-2014 13:22:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[20-Jul-2014 13:22:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 505
+[20-Jul-2014 13:22:56 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[20-Jul-2014 13:22:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[20-Jul-2014 13:22:56 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[20-Jul-2014 13:22:56 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[20-Jul-2014 13:28:19 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[20-Jul-2014 13:28:19 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 505
+[20-Jul-2014 13:28:19 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[20-Jul-2014 13:28:19 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[20-Jul-2014 13:28:19 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[20-Jul-2014 13:28:19 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[20-Jul-2014 13:28:19 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[20-Jul-2014 13:28:19 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 505
+[20-Jul-2014 13:28:19 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[20-Jul-2014 13:28:19 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[20-Jul-2014 13:28:19 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[20-Jul-2014 13:28:19 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[20-Jul-2014 13:28:19 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[20-Jul-2014 13:28:19 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 505
+[20-Jul-2014 13:28:19 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[20-Jul-2014 13:28:19 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[20-Jul-2014 13:28:19 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[20-Jul-2014 13:28:19 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[20-Jul-2014 13:28:19 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[20-Jul-2014 13:28:19 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 505
+[20-Jul-2014 13:28:19 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[20-Jul-2014 13:28:19 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[20-Jul-2014 13:28:19 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[20-Jul-2014 13:28:19 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 10:16:20 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[21-Jul-2014 10:16:21 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 505
+[21-Jul-2014 10:16:21 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[21-Jul-2014 10:16:21 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[21-Jul-2014 10:16:21 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[21-Jul-2014 10:16:21 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[21-Jul-2014 10:16:21 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[21-Jul-2014 10:16:21 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 505
+[21-Jul-2014 10:16:21 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[21-Jul-2014 10:16:21 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[21-Jul-2014 10:16:21 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[21-Jul-2014 10:16:21 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[21-Jul-2014 10:16:21 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[21-Jul-2014 10:16:21 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 505
+[21-Jul-2014 10:16:21 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 10:16:21 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[21-Jul-2014 10:16:21 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 10:16:21 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 10:16:21 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[21-Jul-2014 10:16:21 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 505
+[21-Jul-2014 10:16:21 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 10:16:21 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[21-Jul-2014 10:16:21 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 10:16:21 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 235
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 505
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 505
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 505
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 437
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 505
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 505
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 505
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 467
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 10:24:56 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 04:43:10 UTC] PHP Fatal error:  Call to undefined function checkBalance() in /home/smartus/public_html/capm/iportal/market/trading/pages/order.php on line 7
+[21-Jul-2014 04:43:14 UTC] PHP Fatal error:  Call to undefined function checkBalance() in /home/smartus/public_html/capm/iportal/market/trading/pages/order.php on line 7
+[21-Jul-2014 04:56:50 UTC] PHP Parse error:  syntax error, unexpected ''error'' (T_CONSTANT_ENCAPSED_STRING) in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 107
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 235
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:15:07 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 235
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:17:12 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 235
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:18:24 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 235
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:19:28 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 235
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 439
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 507
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_covariance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/trading/functions.php on line 469
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  stats_variance() expects parameter 1 to be array, null given in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:30:16 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 267
+[21-Jul-2014 11:34:24 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 235
+[21-Jul-2014 11:35:19 Asia/Dhaka] PHP Warning:  Division by zero in /home/smartus/public_html/capm/iportal/market/trading/pages/portfolioDetails.php on line 235
+[21-Jul-2014 06:36:11 UTC] PHP Parse error:  syntax error, unexpected 'stayOrder' (T_STRING) in /home/smartus/public_html/capm/iportal/market/trading/ajax.php on line 223

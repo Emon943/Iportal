@@ -1,0 +1,2 @@
+
+select STDDEV(ltp), entry_date  from eod_stock  where entry_date between('2013-09-24') AND ('2013-09-25') AND company_id = 2;

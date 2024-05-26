@@ -1,0 +1,93 @@
+/*top navigation*/
+.navbar-default .navbar-collapse, .navbar-default .navbar-form,.navbar-default{
+	background:#1F497D;
+}
+.navbar-default .navbar-nav > li > a{
+	color:white;
+	min-height:5em}
+/*.navbar-default .navbar-nav > li{
+	max-width:19%;
+}*/
+.navbar-default .dropdown-menu{background:#efefef;}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+	color:white;
+	background:#C0504D}
+
+/*static menus*/
+.static-sub-menu ul {
+	margin-left:-15px;
+	padding-left:0;
+	}
+.static-sub-menu ul li{
+	list-style:none;
+	display:inline;
+	margin-right:15px;
+}
+
+.sidebar-menu{
+	background:#008CBA; 
+	color:white;
+	margin-left:-15px;
+	margin-right:-15px;
+	}
+.sidebar-menu ul {
+	padding-left:0;
+	margin-left:0;}
+.sidebar-menu ul li{
+	list-style:none;
+	padding:10px;
+	border:0.1em solid black;
+	}
+/*.sidebar-menu ul li a.active{
+	background:black;}*/
+.sidebar-menu ul li a{
+	color:white;
+}
+.sidebar-menu ul li.haschild{padding:0;}
+.sidebar-menu ul li.haschild a span.glyphicon{font-size: 9px; font-weight: 300; padding-left: 12px;}
+.sidebar-menu ul li.haschild > a{padding:10px;}
+.click-nav ul {position:relative;}
+.click-nav ul li {position:relative;list-style:none;cursor:pointer;}
+.click-nav ul li ul {/*position:absolute;left:0;right:0;*/ text-align:right; background:#F2DDDC; color:black}
+.click-nav ul li ul li{border-right:0; color:black}
+.click-nav ul li ul li a{color:black}
+.click-nav ul .clicker {position:relative;}
+.click-nav ul li a {transition:background-color 0.2s ease-in-out;-webkit-transition:background-color 0.2s ease-in-out;
+-moz-transition:background-color 0.2s ease-in-out;display:block;text-decoration:none;}
+
+
+/* Fallbacks */
+.click-nav .no-js ul {display:none;}
+.click-nav .no-js:hover ul {display:block;}
+
+/*tables and table related inputs*/
+.styled-tab{
+	border:1px solid #ccc;
+	border-radius:5px;
+	margin-bottom:20px;
+	padding:25px}
+
+/*stock exchange ticker*/
+
+#mq2{height:70px;}
+	
+/*helpers*/
+.placeholder{background:#ddd; padding:25px; margin-bottom:15px;}
+.placeholder.right{padding-right:10px;}
+.placeholder.left{padding-left:10px;}
+.alignleft{padding:0 1em .3em 0;}
+.blue-placeholder{background:blue;}.blue-placeholder p{display:table-cell;}
+.test-table{display:table;}
+.tabbed-padding{padding: 25px 0px;}
+@media ( min-width: 767px ) {
+  .panel-group { width: 400px; }
+  .thumbnail { margin: 0; }
+  .remove-margin{margin-left:0; padding:0;}
+}
+
+@media (max-width:767px){
+	.navbar-default .navbar-nav > li{
+	  max-width:100% !important;}
+}

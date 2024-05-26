@@ -1,0 +1,25 @@
+<html>
+	<head>
+		<title>Basic Sample</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+		<script type="text/javascript" language="javascript" src="./js/AnyChartStock.js?v=1.0.0r7416"></script>
+		<!-- chart size settings -->
+		<style type="text/css">
+			#chartContainer {
+				width: 800px;
+				height: 450px;
+			}
+		</style>
+		<script type="text/javascript" language="javascript">
+			// Creating new chart object. 
+			var chart = new AnyChartStock("./swf/AnyChartStock.swf?v=1.0.0r7416", "./swf/Preloader.swf?v=1.0.0r7416");
+			// Setting XML config file.	
+			chart.setXMLFile("./config.xml");
+			// Writing the flash object into the page DOM.
+			chart.write("chartContainer");
+		</script>
+	</head>
+	<body>
+		<div id="chartContainer"><!-- Chart Container --></div>
+	</body>
+</html>

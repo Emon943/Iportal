@@ -1,0 +1,557 @@
+[16-Jul-2014 14:40:04 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 19
+[16-Jul-2014 14:40:08 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 19
+[16-Jul-2014 09:51:53 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 30
+[16-Jul-2014 10:03:29 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 47
+[16-Jul-2014 16:03:51 Asia/Dhaka] PHP Catchable fatal error:  Argument 1 passed to trader_rsi() must be of the type array, string given in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 45
+[17-Jul-2014 10:10:38 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:10:38 Asia/Dhaka] PHP Catchable fatal error:  Argument 1 passed to trader_rsi() must be of the type array, null given in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 45
+[17-Jul-2014 10:11:31 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:31 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:31 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:31 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:31 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:31 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:31 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:31 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:31 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 10:11:32 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/smartus/public_html/capm/iportal/market/emedia/functions.php on line 95
+[17-Jul-2014 04:18:15 UTC] PHP Parse error:  syntax error, unexpected 'trader_rsi' (T_STRING) in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:01 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:01 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:01 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:01 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:01 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:01 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:01 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:01 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:01 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:01 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:01 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:01 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:01 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:01 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:01 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:01 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:01 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:01 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:01 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:01 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:01 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:01 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:02 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:03 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:04 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:05 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:06 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 10:44:07 Asia/Dhaka] PHP Strict Standards:  Only variables should be passed by reference in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 04:45:04 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 04:45:53 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
+[17-Jul-2014 04:49:25 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/smartus/public_html/capm/iportal/market/emedia/index.php on line 46
